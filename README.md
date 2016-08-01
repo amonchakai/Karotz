@@ -1,7 +1,7 @@
 # Karotz
 
 This is a BlackBerry 10 application enabling to control your Karotz running Open Karotz. 
-Please refer to: http://www.openkarotz.org for the latest firmware. 
+Please refer to: http://www.openkarotz.org/installation-etape-1/ for the latest firmware. 
 All the functions described in the reference API are supported (led, ears, radio, TTS, ...)
 
 
